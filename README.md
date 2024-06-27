@@ -1,4 +1,6 @@
 # Architecht-TechTalent--Github
+### To run the project:
+
 1 - Bank.bak backup file in ./databaseBackup needs to be restored.
 
 2 - FinanceOrchestra.sln in ./FinanceOrchestra folder needs to be opened, recompiled and started.
